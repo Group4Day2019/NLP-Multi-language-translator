@@ -1,4 +1,4 @@
-# NLP-Multi-language-transator
+# NLP-Multi-language-translator
 An app for translating from one language to another.Almost all world languages are available.
 
 ## Features.
