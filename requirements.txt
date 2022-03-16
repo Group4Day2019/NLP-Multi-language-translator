@@ -1,4 +1,4 @@
 google_trans_new==1.1.9
 gtts==2.2.4
 Pillow==9.0.1
-streamlit==0.79.0
+streamlit==0.84.0
