@@ -8,3 +8,7 @@ An app for translating from one language to another.Almost all world languages a
 
 
 web app: https://share.streamlit.io/group4day2019/nlp-multi-language-translator/main/main.py
+
+## screenshots.
+![](screenshots/result1.png)
+![](screenshots/result2.png)
